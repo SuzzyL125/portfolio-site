@@ -1,0 +1,15 @@
+# Projects
+
+## Clinical Trial Simulation
+
+Simulated randomized clinical trial evaluating continuous glucose monitoring and HbA1c reduction.
+
+Methods:
+- ANCOVA
+- Longitudinal analysis
+- Missing data handling
+
+Tools:
+- R
+- Quarto
+- GitHub

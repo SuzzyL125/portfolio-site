@@ -2,4 +2,20 @@
 title: "About"
 ---
 
-About this site
+
+PhD Candidate in Epidemiology with experience in biostatistics, real-world evidence research, survival analysis, and healthcare data analytics.
+
+Research interests include:
+- Alzheimer's disease and related dementias
+- Cancer epidemiology
+- Clinical trial analytics
+- Causal inference
+- Healthcare quality improvement
+
+Technical skills:
+- R
+- SAS
+- Python
+- SQL
+- Survival analysis
+- Propensity score methods
